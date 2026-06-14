@@ -1,0 +1,1 @@
+([('myapp', '/Users/manish/softwares/dist/myapp', 'EXECUTABLE')],)
